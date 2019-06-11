@@ -73,5 +73,41 @@
       "icon": "phone-portrait",
       "name": "Modal",
       "redirectTo": "/modal"
+    },
+    {
+      "icon": "tablet-portrait",
+      "name": "Popover",
+      "redirectTo": "/popover"
+    },
+    {
+      "icon": "code-working",
+      "name": "Progres Bar y Range",
+      "redirectTo": "/progress-bar"
+    },
+    {
+      "icon": "arrow-round-down",
+      "name": "Refresher",
+      "redirectTo": "/refresher"
+    },
+    {
+      "icon": "search",
+      "name": "Search Bar",
+      "redirectTo": "/searchbar"
+    },
+    {
+      "icon": "copy",
+      "name": "Segment",
+      "redirectTo": "/segment"
+    },
+    {
+      "icon": "albums",
+      "name": "Slides",
+      "redirectTo": "/slides"
+    },
+    {
+      "icon": "cog",
+      "name": "Tabs",
+      "redirectTo": "/tabs"
     }
+
   ]
